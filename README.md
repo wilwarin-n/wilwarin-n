@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=wilwarin-n&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR2bDY4bWt4dWMzdW9ndmxiYmoyMGlzcjZ3dDBrZmE0dnRkZTU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif>
